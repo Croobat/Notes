@@ -1,0 +1,9 @@
+== Responsive ==
+=== Mediaqueri: ===
+Responsive design ideas.
+sitio.
+https://mediaqueri.es/
+
+=== WCAG: ===
+Better accesibility.
+http://www.sidar.org/traducciones/wcag20/es/

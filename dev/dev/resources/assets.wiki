@@ -1,0 +1,14 @@
+== Pictures ==
+=== Unsplash: ===
+Free pictures.
+https://unsplash.com/
+
+== Fonts ==
+=== FontPair: ===
+Font pairings (including gfonts).
+https://fontpair.co/
+
+== Icons ==
+=== Icons8: ===
+Icons, vectores, music, etc.
+https://icons8.com/

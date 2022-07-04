@@ -1,15 +1,15 @@
-* [[Scratchpad]]
+* [[scratchpad|Scratchpad]]
 
 = Life Management =
-* [[Mails]]
+* [[mails|Mails]] (private)
 
 
 = Development =
-* [[Dev/Resources|Resources]]
+* [[dev/resources|Resources]]
 
 
 = Platzi Courses =
 * [[platzi/html-css|HTML and CSS]]
 
 = Other Notes =
-* [[Notes/CV|Building a CV]]
+* [[notes/cv|Building a CV]]
