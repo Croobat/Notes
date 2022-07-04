@@ -1,0 +1,28 @@
+=== HTML-y-CSS ===
+1. [[html-css/front_end|Qué es el front-end]]
+2. [[html-css/back_end|Qué es el back-end]]
+3. [[html-css/full_stack|Qué es el full-stack]]
+4. static-dynamic-pages
+5. html
+6. index-y-estructura-básica_head
+7. labels
+8. image-types
+9. image-optimization
+10. css
+11. selector_pseudoclass-and-pseudoelement
+12. css-rules
+13. box-model
+14. inheritance
+15. specificity
+16. bad-practices
+17. selectores-básicos-y-combinadores
+18. measures_relative-and-absolute
+19. min_max-width
+20. positions
+21. displays
+22. variables
+23. fonts
+24. responsive
+25. mockup-patterns
+26. good-practices-responsive
+27. references

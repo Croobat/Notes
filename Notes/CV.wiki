@@ -1,0 +1,59 @@
+= Building a resume =
+An ATS friendly CV is one with keyworkds that match the job spec that also
+match the relevant work experience and highlight the specific skills that a job
+requires.
+
+== ATS compliant CV ==
+1. Clear sections (summary, skills, work experience, contact etc.)
+2. Simple fonts (calibri, arial, times new roman), easily readable.
+3. No tables.
+4. No columns.
+5. No special characters.
+6. Photos are optional.
+7. Bullet points over long descriptions.
+8. Avoid headers and footers.
+9. Keywords from the job description.
+
+* Always tailor your CV specifically for each job application.
+* Save in PDF format and ensure you can highlight text.
+
+== KISS ==
+* One to three pages
+* Avoid highlighting
+* Do not fake
+
+== Sections ==
+%%                     ╔══════════════════════════════════╗
+%%                     ║               Name               ║
+%%                     ║           Designation            ║
+%%                     ║         Phone | Location         ║
+%%                     ║ Contact (mail, linkedin, github) ║
+%%                     ╚══════════════════════════════════╝
+* Summary:
+  * Describe yourself in one paragraph (own words). Experience, qualities.
+  * Skills.
+  * Work experience:
+%% ╭────────────────────╮
+%% │     * Company name │
+%% │     * Location     │
+%% │     * Working role │
+%% │     * Time spent   │
+%% ╰────────────────────╯
+    * Bullet points
+  * Education:
+    * Bachelors degree
+    * College degree
+  * Certifications:
+  * Languages
+  * Hobbies
+
+== Tools ==
+* [[https://www.jobscan.co/|Jobscan]]:
+  * ATS friendly free professional resume templates.
+  * Rate your resume.
+* [[https://www.canva.com/|Canva]]:
+  More colorful resume templates.
+
+== References ==
+[[https://www.youtube.com/watch?v=1-z9ptlBar4|techTFQ, best resume format]]
+[[https://www.youtube.com/watch?v=QsYXe85-qws|Kamo Mothusi, ATS frienly CV]]

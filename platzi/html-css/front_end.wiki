@@ -1,0 +1,69 @@
+= Qué es el Front-end =
+El frontend es el desarrollador frente al cliente (navegador), se consideran
+las animaciones, estilos, etc, que se visualizan a través del navegador.
+
+== Tecnologías ==
+* Estándares:
+  * HTML
+  * CSS:
+    * Frameworks:
+      * bootstrap
+    * Preprocesadores:
+      * less
+      * stylus
+      * sass
+  * JS:
+    * Frameworks:
+      * Reactjs
+      * Vuejs
+    * Compiladores:
+      * babel
+      * webpack
+
+== Herramientas comúnes Frontend Developer ==
+=== Mediaqueri: ===
+Algunas ideas sobre como deberíamos implementar el diseño responsive en nuestro
+sitio.
+https://mediaqueri.es/
+
+=== Coolors: ===
+Paletas de colores.
+https://coolors.co/palettes/trending
+
+=== Unsplash: ===
+Imágenes gratis.
+https://unsplash.com/
+
+=== FontPair: ===
+Ver cuales fuentes puedes combinar. Y obviamente Google Fonts para obtener esas
+fuentes.
+https://fontpair.co/
+
+=== Icons8: ===
+Iconos, vectores, música y algunos recursos más…
+https://icons8.com/
+
+
+== Documentación ==
+=== CSS ===
+https://cssreference.io/
+
+=== HTML ===
+https://htmlreference.io/
+
+=== Browserdiet: ===
+Optimizar sitios web.
+https://browserdiet.com/es/
+
+=== WCAG: ===
+Mejorar accesibilidad de sitios web.
+http://www.sidar.org/traducciones/wcag20/es/
+
+== Juegos ==
+=== Grid Layout: ===
+Practicar grid.
+https://cssgridgarden.com/#es
+
+=== Flexbox: ===
+Practicar flexbox.
+https://flexboxfroggy.com/#es
