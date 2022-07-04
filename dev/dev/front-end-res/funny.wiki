@@ -1,0 +1,4 @@
+== Funny :D ==
+=== LittleJS ===
+Cute JS game engine.
+https://github.com/KilledByAPixel/LittleJS

@@ -1,0 +1,28 @@
+== Colors ==
+=== Coolors: ===
+Color palettes.
+https://coolors.co/palettes/trending
+
+=== Grainy: ===
+Noisy gradients.
+https://grainy-gradients.vercel.app/
+
+
+== Fonts ==
+=== FontPair: ===
+Font pairings (including gfonts).
+https://fontpair.co/
+
+=== Type Scale: ===
+Visual calculator to experiment font size, scale, etc.
+https://type-scale.com/
+
+
+== Modifiers ==
+=== Easing Gradients: ===
+Supercharge gradients with non-linear color mix.
+https://larsenwork.com/easing-gradients/
+
+=== Dither Me This: ===
+Reduce image file sizes by dithering them.
+https://doodad.dev/dither-me-this/

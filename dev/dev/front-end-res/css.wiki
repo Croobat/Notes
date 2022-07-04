@@ -1,0 +1,40 @@
+== Flexbox ==
+=== Flexbox Patterns: ===
+CSS flexbox interfaces.
+https://flexboxpatterns.com/
+
+
+== Bootstrap ==
+=== Shards: ===
+Free and modern UI toolkit based on Bootstrap 4 framework.
+https://designrevision.com/downloads/shards/
+
+
+== Generators ==
+=== Styler: ===
+Next-gen CSS builder for hashnode blog.
+https://styler.vercel.app/
+
+=== Blobmaker: ===
+Organic SVG shapes.
+https://www.blobmaker.app/
+
+=== Get Waves: ===
+Create SVG waves.
+https://getwaves.io/
+
+=== Neumorphism: ===
+Soft UI CSS shadows.
+https://neumorphism.io/#e0e0e0
+
+=== Tridiv: ===
+Web-based editor to create 3D shapes.
+http://tridiv.com/
+
+=== Fancy border: ===
+Build organic shapes with CSS3 border-radius.
+https://9elements.github.io/fancy-border-radius/
+
+=== Glassmorphism: ===
+Create CSS glass effect.
+https://css.glass/

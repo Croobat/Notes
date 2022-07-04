@@ -1,0 +1,9 @@
+== Teamwork Resources ==
+
+=== Whiteboard ===
+Fastest real-time online team whiteboard.
+https://witeboard.com/bae459b0-fbc1-11ec-b6af-95c6dc2aba6b
+
+=== Draw.io ===
+Diagram drawing team collaboration.
+https://drawio-app.com/

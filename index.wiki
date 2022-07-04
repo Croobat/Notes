@@ -1,12 +1,12 @@
-* [[scratchpad|Scratchpad]]
+[[scratchpad|Scratchpad]]
 
 = Life Management =
 * [[mails|Mails]] (private)
 
-
 = Development =
-* [[dev/resources|Resources]]
-
+* [[dev/teamwork-res|Teamwork Resources]]
+* [[dev/front-end-res|Front-end Resources]]
+* [[dev/md-resources|Markdown Resources]]
 
 = Platzi Courses =
 * [[platzi/html-css|HTML and CSS]]
