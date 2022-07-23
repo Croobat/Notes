@@ -1,0 +1,6 @@
+=== React Práctico ===
+...
+1. [[react-practico/atomic-design|Qué es el Atomic Design]]
+2. [[react-practico/stateful-stateless|Stateful vs stateless]]
+3. [[react-practico-useeffect|useEffect y consumo de APIs]]
+4. [[react-practico/loading-hook|Loading custom hook]]

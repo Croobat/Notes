@@ -1,0 +1,67 @@
+= ¿Qué es atomic design? =
+El Atomic Design es una metodología encargada en interfaces, al usar una
+aplicación se aprecia que muchos componentes son parecidos debido a esto.
+
+Átomos -> Moleculas -> Organismos -> Plantillas -> Páginas
+
+====Tabla Periódica de Atomic Design====
+https://atomicdesign.bradfrost.com/images/content/html-periodic-table.png|
+
+== Átomos ==
+Todo en el universo está compuesto por átomos. Este es nuestro primer nivel de
+abstracción. Al diseñar un UI; los botones, textos, imágenes o entradas de
+texto. Son las partes más fundamentales y pequeñas que usamos.
+====Ejemplo de Átomos====
+https://atomicdesign.bradfrost.com/images/content/atoms-form-elements.png
+
+== Moléculas ==
+Las moléculas son una unión de átomos. Todas estas moléculas, normalmente
+tienen una función específica para la cuál necesitan varios átomos. Este es
+nuestro segundo nivel. Crear moléculas es simple, y deberán tener una función
+*única* en nuestra UI.
+====Ejemplo de Moléculas====
+https://atomicdesign.bradfrost.com/images/content/molecule-search-form.png
+
+== Organismos ==
+Los organismos, ya son un nivel mucho más complejo. Los organismo están
+compuesto de muchas moléculas. Pero lo más interesante, es que tienen vida
+propia, y pueden interactuar en una manera muy amplia con otros organismos.
+Imagina una abeja con una flor, ambos colaboran de una u otra manera a que el
+otro esté bien. En nuestro diseño, imagina al header. El header está compuesto
+de muchos elementos, y tienen un impacto muy grande en la app. O incluso, de
+una sección como una tienda de ropa en la paǵina web. Seguramente te das
+cuenta, que estos tienen muchos artículos, y todos constan de una imaǵen,
+precio, y un ordenamiento. Puedes verlo así:
+
+Átomo⇒ imágen, precio, descripción
+Molécula ⇒ el cuadro que contiene a la imágen, al precio y a la descripción.
+Organismo ⇒ todos los cuadros ordenados en forma de tabla.
+
+El organismo si te das cuenta, puede usar moléculas del mismo tipo o
+diferentes. El punto clave, es que no trates de abarcar tanto, y que pertenecen
+a una sección claramente definida en nuestra app.
+====Ejemplo de Organismos====
+https://atomicdesign.bradfrost.com/images/content/organism-header.png
+
+== Templates ==
+Los templates son prácticamente lo que vimos de Layouts. Es un poco más fácil
+de comprender. Es la plantilla en la cual siempre organizarás los organismos.
+Es decir, el esqueleto que indica donde irá por ejemplo, el Header, el footer,
+grid y sección de comentarios.
+====Ejemplo de Plantillas====
+https://atomicdesign.bradfrost.com/images/content/template.png
+
+== Pages ==
+Finalmente tenemos a la constitución de nuestra app. Las pages son en sí, toda
+la página funcionando con contenido interactúando entre ellas.
+====Ejemplo de Páginas====
+https://atomicdesign.bradfrost.com/images/content/page.png
+
+Una recomendación. No pienses en forma secuencial el atomic design. Es decir,
+no pienses ⇒ primero hago los átomos, después hago las moléculas, tercero los
+organismos… Según el mismo autor de atomic design, dependerá mucho de tu
+aplicación y de las necesidades que hay que cubrir. Más bien, es una manera
+mental de interpretar la UI.
+
+No atribuyas atomic design como algo único de React o del desarrollo web ⇒ es
+un método de desarrollo de UI que se puede usar en cualquier interfaz.

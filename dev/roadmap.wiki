@@ -1,0 +1,351 @@
+= Basics =
+* *Frontend*:
+  Works on client side (browser) interfaces.
+  - HTML
+  - CSS
+  - JS
+  - DOM
+  - FE frameworks
+* *Backend*:
+  Works on the server side and deals with databases.
+  - Languages
+    - JS
+    - PHP
+    - Python
+  - Databases
+    - MongoDB
+    - Postgress
+    - MySQL
+  - Server configuration
+  - Deployment
+
+* *Fullstack*:
+  Works on both frontend and backend.
+
+== IMPORTANT ==
+Most popular programming stack *MERN*:
+  - MongoDB
+  - Express
+  - React
+  - Node
+
+
+== Frontend ==
+=== HTML ===
+  * [X] Tags
+  * [X] Forms
+  * [ ] Semantic
+  * [ ] Search Engine Optimization
+
+=== CSS ===
+  * [X] Syntax
+  * [X] *Selectors*: classnames, ids, tagnames
+  * [ ] *Positions*: relative, absolute, flex, sticky
+  * [X] *Box model*: padding, margin, border
+  * [X] Flex/Grid
+  * [X] Pclasses/Pelements
+  * [ ] Specifity
+  * [ ] Responsive design
+  * [ ] Media queries
+  * [ ] Simple animations/transitions
+
+  - *_Frameworks_*
+    * [ ] *Bootstrap*: Popular, high level, easy
+    * [ ] *Tailwind CSS*: Utility based, low level
+    * [ ] *Materialize*: Based on Google's material design
+    * [ ] *Bulma*: Mobile first, modular
+    * [ ] *Foundation*: Advanced
+
+  - *_Preprocessors_*
+    * [ ] Sass
+      - Mixings
+      - Nesting selectors
+      - Inheritance selectors
+    * [ ] Less
+    * [ ] Stylus
+
+  - Tools
+    * [ ] *PostCSS*: Transform CSS with JS
+
+=== UI Design ===
+* [ ] *Color and contrast*: Readable text
+* [ ] *Whitespace*: Space between elements
+* [ ] *Scale*: Relative element sizing
+* [ ] *Visual hierarchy*: Arrange in order of importance
+* [ ] *Typography*: Typeface, sizing, etc
+
+=== JavaScript ===
+  * [X] *Syntax*: Data types, data structures, functions, loops
+  * [ ] *DOM Manipulation*: Document Object Model
+  * [ ] *Asynchronous*: Promises, async/await
+  * [ ] Create, select, append elements
+  * [ ] Event Listeners
+  * [ ] Classes
+  * [ ] *String/array methods*: map, filter, reduce, etc
+  * [ ] Scoping
+  * [ ] Hoisting
+  * [ ] Closures
+  * [ ] ES6+
+  * [ ] *Fetch API & HTTP*: Request to API's and understand HTTP protocol
+  * [ ] *TypeScript*: Superset of JS that adds static typing and other features
+    - Static-type checking
+    - Class and module support
+    - ES6+ features
+    - Robust
+
+  - *_Frameworks_*
+  * [ ] React.js (moderate dif)
+    * [ ] *Syntax*: props, state, events, conditional rendering
+    * [ ] *JSX*: JavaScript + HTML
+    * [ ] File structure
+    * [ ] *Functional*/class components
+    * [ ] *Hooks*: use{State, Effect, Ref, Context, Reducer, Memo, Callback}
+    * [ ] Context API
+    * [ ] *Redux*: State Management Tool
+    - Packages
+      * [ ] React Router
+      * [ ] Styled Components
+      * [ ] Axios
+    * [ ] Next.js
+    * [ ] _UI Kits_
+      * [ ] Material UI
+      * [ ] Ant Design
+      * [ ] Chakra UI
+      * [ ] React Bootstrap
+      * [ ] Onsen UI
+
+  * [ ] Vue (low dif) _FOSS!_
+    * [ ] Vue CLI
+    * [ ] Vue Router
+    * [ ] Composition API
+    * [ ] Vuex
+    * [ ] _UI Kits_
+      * Vuetify
+      * Buefy
+      * Vue Material
+      * Bootstrap Vue
+
+  * [ ] Angular (high dif)
+    * [ ] Angular CLI
+    * [ ] Services
+    * [ ] *TypeScript*
+    * [ ] Observables
+    * [ ] _UI Kits_
+      * Angular Material
+      * Ng-Zorro
+      * Ng-Bootstrap
+      * MD Bootstrap
+
+  * [ ] Svelte (lowest dif)
+    * [ ] SvelteKit
+    * [ ] Stores
+    * [ ] _UI Kits_
+      * Svelte Material UI
+      * Materialify
+      * Smelte
+      * Sveltestrap
+
+=== Server-Side Rendering ===
+Unlike with a SPA (Single Page App), React/Vue/Svelte render on the server-side
+* [ ] Next.js
+  - React based
+  - Data fetching methods
+  - Image optimization
+  - SEO
+
+* [ ] Nuxt.js
+  - Vue based
+  - Data fetching
+  - Auto transpilation and bundling
+
+* [ ] Remix
+  - React based
+  - Loaders and actions
+  - Most control over HTTP request/response
+
+* [ ] SvelteKit
+  - Svelte based
+  - Advanced routing
+  - Code spliting
+
+=== Static-Site Generators ===
+* [ ] Gatsby
+  - React based
+  - GraphQL data layer
+  - Image optimization
+  - Code splitting
+* [ ] Next.js
+  - React based
+  - Exports fast static websites
+  - Data fetching methods
+* [ ] Gridsome
+  - Vue based
+  - PWA ready
+  - SEO
+* [ ] Jekyll
+  - Ruby based
+  - Liquid template engine
+* [ ] HUGO
+  - Golang based
+
+=== Jamstack arquitecture ===
+Architectural approach for building websites (JS, API and Markup)
+- Variety of tools
+- Decoupled
+- Static-first
+- Serverless functions
+- High performance
+- Secure
+
+== Backend ==
+=== Concepts ===
+* [ ] HTTP/HTTPS
+* [ ] APIs
+* [ ] Rest/GRaphQL
+* [ ] Web Sockets
+* [ ] CORS
+* [ ] CI/CD
+* [ ] MVC
+* [ ] Serverless
+
+=== Programming Language ===
+  * [ ] Node.js
+  * [ ] PHP
+  * [ ] Python
+  * [ ] Ruby
+  * [ ] Java
+
+=== Frameworks ===
+  * [ ] Express.js (Nodejs)
+  * [ ] Laravel (PHP)
+  * [ ] Django (Python)
+  * [ ] Flask (Python)
+  * [ ] FastAPI (Python)
+  * [ ] Ruby on rails (Ruby)
+
+=== Databases ===
+- No SQL
+  * [ ] mongoDB
+    - ODMs
+    * [ ] Mongoose
+- SQL (Structured Query Language)
+  * [ ] MySQL
+  * [ ] PostgreSQL
+  * [ ] SQL Lite
+* [ ] ODM/ORM
+* [ ] Authentication
+* [ ] OAuth
+* [ ] Hashing
+* [ ] Rate Limiting
+* [ ] Reverse Proxy
+* [ ] Docs
+* [ ] Load Balance
+* [ ] Postman
+
+=== Headless CMS ===
+Create APIs with no frontend
+* [ ] Strapi
+  - Based on Node.js
+  - Open Source
+  - Customizable
+  - Self hosted
+* [ ] Sanity.io
+  - Powerful and flexible
+  - Good colaboration
+  - Sanity studio toolkit
+* [ ] ContentFul
+  - Great for teams
+  - Optimized for speed
+  - For large businesses
+* [ ] GraphCMS
+  - Build a GraphQI API instantly
+  - Lightyweight
+  - Intuitive
+  - UI Extensions
+
+== Miscellaneous ==
+* [ ] *Deploy*: GIT SSH, FTP/SFTP
+* [ ] Progressive Web Applications
+* [ ] Markup: JSON, XML, Markdown
+* [ ] Basic Security (XSS, CSRF)
+* [ ] Accesibility
+- *Testing*:
+  * [ ] *Unit testing*: Test blocks of code (functions, modules, classes)
+  * [ ] *Integration testing*: Modules tested together
+  * [ ] *E2E Testing*: Emulating an user
+
+
+== Tools ==
+* *OS*
+  - MacOS
+  - Windows
+  - Linux (WSL)
+
+* *Browser*
+  Element selector
+  Console
+  Storage
+  Network activity
+  - Google Chrome
+  - Mozilla Firefox
+  - Brave
+  - Edge
+  - Safari
+
+* *Editor*
+  Emmet
+  Live Server
+  ESLint
+  GitHub Copilot
+  - VSCode
+  - Sublime text
+  - Atom
+  - VIM
+  - Webstorm
+
+* *Terminal*
+  - Default
+  - iTerm2
+  - Powershell
+  - Git bash
+  - Hyper
+
+* *Version control*
+- *Git*: Most popular version control system
+- *GitHub*: Remote service for Git
+- *Mercurial*
+
+* *Package Manager*
+  - Pacman
+  - *NPM*: Package manager used to install packages into a project (requires
+  - node.js)
+  - Yarn
+
+* *Deploy Websites*
+  - Netlify
+  - Vercel
+  - GitHub Pages
+  - cPanel
+  - amazon S
+
+* *Domain Name Registrars*
+  - NameCheap
+  - Domain.com
+  - Bluehost
+  - GoDaddy
+
+* *Design Software*
+  - Figma
+  - Adobe XD
+  - Canva
+
+* *Testing*
+  - Jest, Cypress, Pupeteer (JS)
+  - Enzyme
+  - Jasmine
+  - Mocha
+
+
+==== Sources ====
+[[https://www.youtube.com/watch?v=xORdz1Hi9Gc&t=3s|(1) JSMastery, Full stack 2022]]
+[[https://www.youtube.com/watch?v=EqzUcMzfV1w&t=7s|(2) Traversy Media, WDev 2022]]

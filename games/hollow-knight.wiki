@@ -1,0 +1,274 @@
+== No Hit Guide ==
+
+=== 0. NOTAS ===
+* Steel soul mode
+* Las dream zones, baldur shell y carefree melody cuentan como hit
+* Al activar furia esperar a dejar de parpadear (puede hacer 1 de daño)
+* No puedes hacer Force Quit (FQ) si tienes agro de enemigo o bomba
+* Se puede golpear a través de paredes delgadas
+* Contra enemigos voladores es bueno hacer dash tras cada golpe (por si se
+  falla)
+*g extra disponible en cruces (matando al gordo o en la zona de moscas
+  rompiendo pared de arriba)
+
+* Los ascensores no dejan pasar alma
+
+=== 1. CROSSROADS ===
+1.g a la izquierda del foso
+2. Abrir puerta (cruzar checkpoint)
+3. Furia de los caídos (FQ - Force Quit)
+4. Saltando a dirthmouth - equipar charm
+5.g entrando a la izquierda
+6. Izquierda - Abajo
+7. Activar furia (mover cabeza)
+8. Derecha
+9.g entrando
+10. Truco espina
+11. Abajo derecha
+12.g entrando
+13. Derecha - Derecha - Arriba - Izquierda
+14. Abrir estación (sin banco)
+15. Derecha - Arriba izquierda
+==== 16. False knight ====
+    * 8 golpes para stagger
+    * 5 golpes al tirar
+
+17. Emblema de la ciudad
+18.g
+19. alma (usar banco)
+20. Charm, Soul eater (equipar)
+21. Salir, izquierda - Arriba - Greenpath
+
+=== 2. GREENPATH ===
+1. Activar furia
+2. Izquierda -g al final arriba
+3. Izquierda
+4. alma/mosquito skip (esperarlo en el centro un poco a la derecha de la
+   plataforma)
+
+5. Izquierda - Izquierda - alma (se pueden matar a través de paredes)
+6.g arriba a la derecha
+7. Izquierda - Arriba (tener full alma)
+8. Golpe, alma x 3 para el barbón
+9. Arriba
+==== 10. Zote boss ====
+    * 7 golpes
+
+11. Izquierda (tener full alma)
+12. Esperar que el barbón esté bajo la plataforma de enfrente.
+13. Golpe, alma x 3 para los dos barbónes -g
+14. Abajo - Diario errante entrando a la derecha
+15. Arriba - Izquierda
+==== 16. Hornet ====
+    * Evitar ataque, dos golpes
+
+17. Cloak (FQ)
+18. Salir - Izquierda - Derecha - Abajo derecha -g abajo
+
+=== 3. FUNGAL ===
+1. Caer de la primera plataforma flotante (un poco a la izquierda - full
+   derecha)
+2. Derecha - Comprar fuerza frágil (equipar)
+3. Activar furia
+4. Abajo izquierda - 2 hongos grandes (golpe, alejo, espero vómito, 3-5 golpes
+   alma)
+
+5. Abajo -g - Abajo izquierda
+6. Izquierda arriba, subir rápido por las bombas - Dash - alma - sello
+   hallownest (FQ)
+
+7. Banco Legeater - Izquierda - Activar furia
+8. Abajo derecha - derecha - Abajo izquierda
+9. Cloth - Izquierda -g
+10. Abajo derecha (full derecha desde el barranco con acido) - Izquierda abajo
+11.g - Abajo derecha - Derecha abajo - Abajo
+12. Izquierda - Caer a plataforma flotante - Caer - Dash - alma, golpe a Manti
+13. Abajo izquierda - Charm dashmaster
+14. Arriba derecha - Arriba izquierda
+15. Aldea mantis - palanca - Garras mantis
+16.g -g - Arriba
+17. Diario errante a la izquierda arriba
+18. Arriba derecha
+19. Dash - Dash - Pogo derecha - Pogo izquierda - Pogo derecha - Dash
+20. Trepar - Pogo izquierda - Dash (sin pogo) - Dash - Pogo - Arriba
+21. Derecha - Derecha, se puede caer con dash a la primer palanca - Usar
+    emblema
+
+=== 4. TEARS ===
+1. Derecha abajo
+2. Abajo -g abajo a la derecha - Abajo, llamar ascensor
+3. Izquierda - Mejorar nail
+4. Derecha - Derecha plataforma - Sello hallownest arriba
+5. Derecha - Saltar al gordo si embiste, si no salir
+6. Lemm, vender reliquias
+7.g izquierda - Arriba (bajar ascensor), A los lanceros disparo de alma y
+   golpe
+8. Arriba derecha abajo - huevo podrido abajo a la izquierda (cuidado
+   explosivos)
+9. Abajo izquierdag (cuidado explosivos)
+10. Arriba - derecha
+==== 11. Soul twister ====
+    * Puede aparecer abajo, derecha o izquierda
+      - Abajo: golpe, alma
+      - Izquierda: alma, dash, golpe
+
+    * 3 disparos de alma para matar
+    * Si no se insta-kill quedarse quieto y esperar golpe
+
+12. Ascensor, romper muro Cornifer
+13. Izquierda - Arriba a la derecha (cuidado enemigo, disparar alma antes de
+    entrar)
+14. Llave simple
+15. Arriba - Arriba izquierda (diario de errante) - Derecha
+16. Activar estación (sin banco)
+17. TP a cruces olvidados
+18. Banco - Mosca - Disparo de alma a los bichos
+19. Salubra (Shaman stone, notches)
+20. Izquierda - Sly - FQ
+21. TP dirthmouth - Sly (huevo pódrido) - Sello Hallownest escalando pozo
+22. Jin (vender huevos) - Sly (linterna) - FQ
+23. Quitar furia, equipar shaman stone
+24. Arriba derecha (tener al menos 50g)
+
+=== 5. CUMBRES ===
+1. Derecha arriba - Saltar dash a bichos con pico (o alma alma)
+2. Arriba - Dash, trepar izquierda - Dash - pogo - pogo - trepa - trepa -
+   cubrir segundo laser - alma - dash - caer - dash - esperar - subir -
+izquierda
+3. Pogo a caja, dash a la derecha para trepar - King idol
+4. Derecha - Arriba - Ver bicho con laser, esperar para subir - Llave Sly
+5. Abajo derecha (esperar bichos laser) - izquierda arriba
+6. Arriba derecha - Derecha abajo derecha -g (asegurar 300)
+7. Parkour - Crystal dash - FQ
+
+=== 6. DREAM NAIL ===
+1. Cruces olvidados - Derecha - Abajo - Derecha - Crystal dash desde techo
+   mosca
+2. Bluelake - pared - derecha (huevo podrido) - Derecha - Arriba - Derecha
+   (cr-dash)
+3. Dream nail (pausar y hacer dashes) - Abajo izquierda para, charm Shield
+4. Abajo izquierda - cr-dash - Izquierda - Izquierda abajo - Derecha - Ascenso
+5. City - Abajo (full alma) - Abajo derecha - Abrir estación
+6. Sello hallownest arriba en las espinas (hacer pogos en el lugar para ganar
+   altura)
+
+7. Izquierda - Se puede cargar aguijon onírico con el bicho arriba a la derech
+8. Arriba izquierda - cr-dash entrando en la pared de arriba (cancelar en la
+   primera ventana)
+
+9. Puerta - camino oculto - matar enemigo dorado
+10. Izquierda (cr-dash) - Izquierda (escena Hornet) - Lemm (vender reliquias)
+11. FQ - TP a dirthmouth - Jin (vender huevo) - Iselda (compass) - Sly (dar
+    llave, i-frame charm, elegant key)
+
+12. TP a cruces - Salubra (2 charm baratos, comprar notch)
+13. FQ - Equipar furia, shaman y strenght - TP a almacenes
+14. Izquierda - Activar furia
+15. Abajo - Abajo derecha - Derecha - Elegant key
+==== 16. Soul warrior ====
+    * Plunge: Mover, salto, golpe
+    * Ball: Salto, dash, golpe
+    * Dash: Salto alto
+    * Cuidado con bichos aleatorios (cada 3s)
+    * Medio salto y dash para esquivar fantasmas
+17. Shade soul - FQ - TP a estación del rey - Activar banco
+18. Cargar alma - Izquierda - cr-dash hasta el fondo - Abajo izquierda
+19. Caer - un poco a la derecha - bicho - izquierda - pinchos - derecha -
+    izquierda - dash
+20. Dash, alma - Izquierda abajo
+21. Izquierda abajo - Abajo - Cargar alma - Izquierda
+22. Maulek (un alma doble)
+23. 2 Mauleks - doble alma - doble alma
+24. Pale Ore - FQ
+25. Izquierda - Mejorar nail (800g)
+
+=== 7. ACID SKIP ===
+1. TP cruces - Abajo - Izquierda - Izquierda - Izquierda
+2. Acid skip:
+  * Dejar caer
+  * Dejar caer izquierda
+  * En cuanto se toque la pared usar cr-dash (preferible fallar despues que
+    antes)
+  * Tras llegar al otro lado, no presionar salto, cuando se detenga el sonido
+    de golpe contra la pared saltar
+
+=== 8. TEACHER ===
+1. Abajo pegado a la izquierda - Abajo del todo a la izquierda
+2. Izquierda - Entrar (llegar con alma)
+3. Abajo centro - Activar furia
+==== 4. Uumuu ====
+   * Tras aparecer Uumuu dream nail
+   * Dash a pared derecha (escalon) - Spam cr-dash
+   * Follow: Dejar caer
+   * Global: las plataformas de abajo no pueden tener electricidad
+   * Las plataformas son zona segura
+   * Salto - dash al centro (ojo a electricidad global)
+   * Si Uumuu se acerca lento es porque biene Quirrel
+   * Alma, golpe x 3, alma x 3
+5. Abajo centro (pegado a paredes porque no tenemos lagrima)
+6. Monomon
+
+=== 9. BEAST ===
+1. Salir - Izquierda - Abajo izquierda - Derecha - Estación reina - Derecha
+   abajo
+2. Izquierda abajo - Izquierda - Puerta secreta - Activar trampa a deepnest
+3. Contar 3 y dash (importante no tocar piso)
+4. Abajo - Derecha - dash - Caer, dash izquierda a la segunda - Abajo
+5. Izquierda - abajo - izquierda - saltar agujero - seguir enemigo - seguir
+   camino hasta abajo - Fuentes termales
+6. Arriba izquierda - Activar furia - Izquierda (entrada secreta arriba
+   izquierda)
+7. Cargar alma con enemigo a la derecha
+8. Izquierda - plataformas (esperar araña en la plataforma) - cuidado con
+   espinas ocultas
+9. Arriba izquierda, cuidado con espinas ocultas
+10. Izquierda, cuidado con espinas al caer (cargar cr-dash)
+11. Banco falso - Guarida - 3 alma para bichos con máscara (o esperar que
+    abran, golpe dash)
+12. Cuidado con plataformas falsas
+13. Para el enmascarado, esperar ataque, salto, dash, pogo
+14. Herrah
+
+=== 10. WATCHER ===
+1. Salir, abrir estación (250g)
+2. TP a estación rey
+3. Arriba izquierda - cr-dash izquierda
+4. Ascensor - Pogo en estatua, dash para el skip
+5. Arriba - Dejar vivo al del copete para cargar alma
+6. Activar enemigo (no pisar plataforma, se activan 2)
+7. Alma x 5 por la puerta para abrirla
+8. Abajo derecha (alma hacia lo oscuro)
+9. Arriba - Izquierda arriba - Activar furia - Ascensor
+10. Matar vigilante con candelabro
+==== 11. Vigilantes ====
+    * Golpe x2, salto, pogo, dash
+    * 6 golpes en total (no matar)
+    * Cuando aparezca el segundo alma
+    * golpe x2, esquivar golpe x2, esquivar, golpe, alma
+    * Cuando aparezca el tercero alma, golpes
+    * Matar los demás
+    * - Tanquean 7 golpes+alma (o 4g+2a)
+12. Lurien
+
+=== 11. HOLLOW KNIGHT ===
+1. Abajo - Izquierda geo - Abajo - Abajo - (Bajar por la derecha)
+2. Izquierda abajo - Abajo derecha - cr-dash en la pared del letrero Lemm
+   (esperar 5s)
+3. Activar furia - TP a dirthmouth (reverencia Elderbug, Superman) - Templo
+==== 4. Hollow Knight ====
+  * 2 ataques al comenzar
+  * Todo se evita saltando
+  * A veces salta sin motivo, muy peligroso
+
+  * Embestida: Saltar, pogo (golpe opcional)
+  * Triple golpe: Salto máximo, parry pogo segundo golpe, golpe
+  * Parry: No golpear
+
+  * Pilares: Dash, entre pilares
+  * Lluvia: Más fácil esquivar a la izquierda
+
+  * Metralleta: Saltarle al principio, dash, pogo, golpe (si no alejarse lo más
+    posible)
+  * Sentones: Alternar dashes
+  * Al final se queda quieto y teletransporta al centro, hacer dash
+  * Hollow Knight

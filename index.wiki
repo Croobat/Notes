@@ -4,12 +4,19 @@
 * [[mails|Mails]] (private)
 
 = Development =
+* [[dev/roadmap|Roadmap]]
+*
 * [[dev/teamwork-res|Teamwork Resources]]
 * [[dev/front-end-res|Front-end Resources]]
 * [[dev/md-resources|Markdown Resources]]
 
 = Platzi Courses =
-* [[platzi/html-css|HTML and CSS]]
+* [[platzi/html-css|HTML y CSS]]
+* [[platzi/webpack|Webpack]]
+* [[platzi/react-practico|React práctico]]
+
+= Game Notes =
+* [[games/hollow-knight|Hollow Knight]]
 
 = Other Notes =
 * [[notes/cv|Building a CV]]
