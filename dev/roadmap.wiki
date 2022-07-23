@@ -30,6 +30,7 @@ Most popular programming stack *MERN*:
   - Node
 
 
+
 == Frontend ==
 === HTML ===
   * [X] Tags
@@ -197,50 +198,103 @@ Architectural approach for building websites (JS, API and Markup)
 - High performance
 - Secure
 
+
+
 == Backend ==
+- Comfortable with server-side programming language
+- Know how to setup and manage database and ORM/ODM
+- Know how to create REST APIs with authentication
+- Comfortable with the terminal and UNIX comands
+- Know how to deploy projects
+
 === Concepts ===
 * [ ] HTTP/HTTPS
 * [ ] APIs
-* [ ] Rest/GRaphQL
+  * [ ] REST APIs
+      - Representational State Transfer, apps that interact with RESTful services
+      - HTTP requests work with data/resources
+      - Specific URL structure for endpoints
+  * [ ] GRaphQL
+      - Data query and manipulation language for APIS
+      - Strongly typed
+      - Less matenance than REST
+      * [ ] Apollo (GraphQL client)
 * [ ] Web Sockets
 * [ ] CORS
 * [ ] CI/CD
 * [ ] MVC
 * [ ] Serverless
 
-=== Programming Language ===
-  * [ ] Node.js
-  * [ ] PHP
-  * [ ] Python
-  * [ ] Ruby
-  * [ ] Java
-
-=== Frameworks ===
-  * [ ] Express.js (Nodejs)
-  * [ ] Laravel (PHP)
-  * [ ] Django (Python)
-  * [ ] Flask (Python)
-  * [ ] FastAPI (Python)
-  * [ ] Ruby on rails (Ruby)
+=== Programming Language (and frameworks) ===
+  * [ ] *Node.js*
+    * [ ] Express
+    * [ ] Koa
+    * [ ] Fastify
+    * [ ] Nest.js
+  * [ ] *PHP*: Efficient, widely used
+    * [ ] *Laravel*
+    * [ ] Symfony
+    * [ ] Slim
+  * [ ] *Python*: Data science, machine learning, math
+    * [ ] Django
+    * [ ] FastAPI
+    * [ ] Flask
+  * [ ] *C#*: ASP, .NET
+    * [ ] .NET developer framework
+    * [ ] ASP.NET
+    * [ ] ASP.NET MVC
+  * [ ] *GoLang*
+    * [ ] Gin
+    * [ ] Beego
+  * [ ] *Ruby*: Clean syntax
+    * [ ] Ruby on Rails
+    * [ ] Sinatra
+  * [ ] *Java*
+    * [ ] Spring
+    * [ ] Struts
+  * [ ] *Kotlin*: Cool for android apps
+    * [ ] Spring
+    * [ ] Vert.x
+  * [ ] *Rust*: Cool for backend and microservices
+  * [ ] *R*: Data analytics, statistic computer
+    * [ ] Rocket
+    * [ ] Actix Web
+  * [ ] *Swift*: Cool for iOS apps
 
 === Databases ===
-- No SQL
-  * [ ] mongoDB
-    - ODMs
-    * [ ] Mongoose
-- SQL (Structured Query Language)
+==== No SQL ====
+  * [ ] MongoDB
+    - Mongoose
+  * [ ] Firebase
+
+==== SQL ====
   * [ ] MySQL
   * [ ] PostgreSQL
-  * [ ] SQL Lite
+  * [ ] SQLite
+  * [ ] MS SQL Server
+
 * [ ] ODM/ORM
-* [ ] Authentication
-* [ ] OAuth
-* [ ] Hashing
 * [ ] Rate Limiting
 * [ ] Reverse Proxy
 * [ ] Docs
 * [ ] Load Balance
+* [ ] Mongoose
 * [ ] Postman
+
+=== Authentication and authorization ===
+-Autenticación identifies individuals and authorization gives permissions.
+
+* [ ] Authentication
+* [ ] Authorization
+* [ ] JSON Web Tokens
+* [ ] Cookies and sesions
+* [ ] *OAuth*: login via google, twitter, github
+* [ ] Auth libraries
+  - Passport
+  - Grant
+* [ ] Hashing
+  - Bcrypt
+* [ ] Protecting endpoints and routes: tokens.
 
 === Headless CMS ===
 Create APIs with no frontend
@@ -263,17 +317,78 @@ Create APIs with no frontend
   - Intuitive
   - UI Extensions
 
-== Miscellaneous ==
-* [ ] *Deploy*: GIT SSH, FTP/SFTP
+
+== Mobile ==
+There are many web technologies that allow to crate mobile apps
+* [ ] React native
+  - React based
+  - Code reusability
+  - Large community
+* [ ] Flutter
+  - Dart based
+  - Extremely fast
+  - Strong documentation
+* [ ] Ionic
+  - Use any framework
+  - Pre-designed UI components
+  - Dev-friendly tooling
+* [ ] Xamarin
+  - Mobile apps with .NET and C#
+  - Cross platform
+  - High performance
+
+
+== Full Stack ==
+* [ ] *Web3*: Decentralized apps that offer many benefits (transparency,
+      security, anonymity, etc.)
+  - Blockchain
+  - Ethereum and smart contracts
+  - Solidity programming language
+  - NFTs
+* [ ] *Web assembly*: Low level assembly-like language or bytecode for the web
+  - High performance webapps
+  - Write programs in Rust, C, C++ and compile to WASM
+  - AssemblyScript is a Typescript variant
+* [ ] Artificial intelligence:
+  - Programming tools (github copilot)
+  - Testing tools
+  - ML APIs
+  - Chatbots, spam filters, suggestions, etc
 * [ ] Progressive Web Applications
 * [ ] Markup: JSON, XML, Markdown
 * [ ] Basic Security (XSS, CSRF)
 * [ ] Accesibility
-- *Testing*:
+
+* [ ] *Deploy*:
+  * [ ] GIT SSH
+  * [ ] FTP/SFTP
+
+* [ ] *Testing*:
   * [ ] *Unit testing*: Test blocks of code (functions, modules, classes)
   * [ ] *Integration testing*: Modules tested together
   * [ ] *E2E Testing*: Emulating an user
 
+* [ ] *Wordpress*:
+  - PHP content management
+  - Widely used
+  - Good for freelancing
+  - Good for small businesses
+  - Can be used as headless CMS
+
+* [ ] DevOps
+  - Hosting platforms
+  * [ ] Aws
+  * [ ] Heroku
+  * [ ] DigitalOcean
+  - Server software
+  * [ ] Apache
+  * [ ] Nginx
+  - Containers and virtualization
+  * [ ] Docker
+  * [ ] Kubernetes
+  - Image and video
+  * [ ] *Cloudinary*: Store and optimize images and video
+  * [ ] Amazon S3: Storage through web service interface
 
 == Tools ==
 * *OS*
